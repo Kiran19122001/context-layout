@@ -1,0 +1,42 @@
+.body-container {
+  display: flex;
+
+  height: 300px;
+  width: 80%;
+  margin: auto;
+  background-color: #f1f5f9;
+}
+.para-cont {
+  width: 400px;
+}
+.b1-cont {
+  padding: 10px 80px 5px 70px;
+  background-color: #64748b;
+  margin-right: 10px;
+  margin-left: 50px;
+  position: relative;
+}
+.b2-cont {
+  padding: 10px 80px 5px 70px;
+  background-color: #e2e8f0;
+  margin-right: 10px;
+  position: relative;
+}
+.b3-cont {
+  padding: 10px 80px 5px 70px;
+  background-color: #64748b;
+  margin-right: 10px;
+  position: relative;
+}
+.cont-heads {
+  font-size: 15px;
+  font-weight: 600;
+}
+.boxes {
+  height: 70px;
+  width: 70px;
+  background-color: transparent;
+  border: 1px solid #000;
+  text-align: center;
+  padding-top: 20px;
+}
